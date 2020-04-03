@@ -19,17 +19,6 @@ public class Solution {
         return false; // if num not happy return false ;(
     }
 
-    private int sumOfSquaresAllNumInArray(int[] nums) {
-        int sum = 0;
-        for (int i : nums) sum += i * i;
-        System.out.println(sum);
-        return sum;
-    }
-
-    private int[] intToArray(int input) {
-        return Arrays.stream(Integer.toString(input).split("")).mapToInt(Integer::parseInt).toArray();
-    }
-
     public static void main(String[] args) {
         //main Method for test only :)
 
@@ -43,5 +32,16 @@ public class Solution {
 
         Solution s = new Solution();
         System.out.println(s.isHappy(200));//print ur result
+    }
+
+    private int sumOfSquaresAllNumInArray(int[] nums) {
+        int sum = 0;
+        for (int i : nums) sum += i * i;
+        System.out.println(sum);
+        return sum;
+    }
+
+    private int[] intToArray(int input) {
+        return Arrays.stream(Integer.toString(input).split("")).mapToInt(Integer::parseInt).toArray();
     }
 }
