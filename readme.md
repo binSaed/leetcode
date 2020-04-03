@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://leetcode.com/abdoo_saed">
-        <img height=85 src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png">
+        <img height=85 src="https://miro.medium.com/max/2720/1*gBkMCGTAdSk4tu17SCa7RQ.png">
     </a>
     <br>for coding interview preparation
 </p>
