@@ -6,17 +6,17 @@ class Solution {
 
     public int singleNumber(int[] nums) {
 
-        HashMap<Integer, Integer> numberAndappears = new HashMap<>();
+        HashMap<Integer, Integer> numberAndAppears = new HashMap<>();
 
         for (int i : nums) {
             int count = 1;
-            if (numberAndappears.containsKey(i))
-                count += numberAndappears.get(i);//if num exist before increment the value
+            if (numberAndAppears.containsKey(i))
+                count += numberAndAppears.get(i);//if num exist before increment the value
 
-            numberAndappears.put(i, count);
+            numberAndAppears.put(i, count);
         }
 
-        for (int i : nums) if (numberAndappears.get(i) == 1) return i;// if found num appears one return it
+        for (int i : nums) if (numberAndAppears.get(i) == 1) return i;// if found num appears one return it
 
         return -1;//if no item appears one time return -1
     }
