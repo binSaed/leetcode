@@ -1,51 +1,32 @@
 package com.company.thirty_day_leetcoding_challenge.week2.ContiguousArray;
 
-import java.util.Stack;
+import java.util.*;
 
 public class Solution {
-    public int findMaxLength(int[] nums) {
-        Stack<Integer> leftSubArray = new Stack<>();
-        Stack<Integer> rightSubArray = new Stack<>();
-        int maxLength = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (leftSubArray.isEmpty() || (rightSubArray.isEmpty() && leftSubArray.peek() == nums[i]))
-                leftSubArray.push(nums[i]);
-            else if (rightSubArray.isEmpty() || (!leftSubArray.isEmpty() && rightSubArray.peek() == nums[i]))
-                rightSubArray.push(nums[i]);
-            else {
-                i--;
-                for (var temp : leftSubArray.toArray()) {
-                    if (!rightSubArray.isEmpty()) {
-                        leftSubArray.pop();
-                        rightSubArray.pop();
-                        maxLength += 2;
-                    } else break;
-                }
-            }
-        }
-        return maxLength;
-    }
 
-    public int findMaxLengthc(int[] nums) {
-        Stack<Integer> f = new Stack<>();
-        int max = 0;
-        //0,1,1,0,1,1,1,0
-        for (int i : nums) {
-            if (f.isEmpty() || f.peek() == i) f.push(i);
-            else {
-                f.pop();
-                max += 2;
-            }
-        }return max;
+    public int findMaxLength(int[] nums) {
+        // Make all the 0 to -1 first
+        Map<Integer, Integer> map = new HashMap<>();
+        // Whenever sum get add up to 0, we know we should add
+        map.put(0, -1);
+        int max = 0, count = 0;
+        for (int i = 0; i < nums.length; i++) {
+            count += (nums[i] == 1 ? 1 : -1);
+            if (map.containsKey(count)) max = Math.max(max, i - map.get(count));
+            else map.put(count, i);
+        }
+        return max;
     }
 
     public static void main(String[] args) {
-//Input:
-//[0,0,0,1,1,1,0]
-//Output:
-//4
-//Expected:
-//6
+
+        //Input:
+        //[0,0,0,1,1,1,0]
+        //Output:
+        //4
+        //Expected:
+        //6
+
 
         //Input:
         //[0,1,0,1]
@@ -62,6 +43,12 @@ public class Solution {
         //Expected:
         //4
 
+        //Input:
+        //[0,0,1,0,0,0,1,1]
+        //Output:
+        //0
+        //Expected:
+        //6
 
         //Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1.
         //
@@ -76,6 +63,12 @@ public class Solution {
         //Note: The length of the given binary array will not exceed 50,000.
 
         Solution s = new Solution();
-        System.out.println(s.findMaxLengthc(new int[]{0,1,1,0,1,1,1,0}));
+        System.out.println("Output:" + s.findMaxLength(new int[]{0, 1}) + "  Expected:2");
+        System.out.println("Output:" + s.findMaxLength(new int[]{0, 1, 0}) + "  Expected:2");
+        System.out.println("Output:" + s.findMaxLength(new int[]{0, 1, 1, 0, 1, 1, 1, 0}) + "  Expected:4");
+        System.out.println("Output:" + s.findMaxLength(new int[]{0, 1, 0, 1}) + "  Expected:4");
+        System.out.println("Output:" + s.findMaxLength(new int[]{0, 0, 0, 1, 1, 1, 0}) + "  Expected:6");
+        System.out.println("Output:" + s.findMaxLength(new int[]{0, 0, 1, 0, 0, 0, 1, 1}) + "  Expected:6");
+
     }
 }
