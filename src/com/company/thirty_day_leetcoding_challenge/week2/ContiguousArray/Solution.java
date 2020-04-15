@@ -3,7 +3,7 @@ package com.company.thirty_day_leetcoding_challenge.week2.ContiguousArray;
 import java.util.*;
 
 public class Solution {
-
+    // TODO: 4/15/20 Read Solution https://leetcode.com/problems/contiguous-array/solution/
     public int findMaxLength(int[] nums) {
         // Make all the 0 to -1 first
         Map<Integer, Integer> map = new HashMap<>();
