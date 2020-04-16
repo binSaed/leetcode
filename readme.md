@@ -30,6 +30,7 @@
 |  2  | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)                             |           [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week2/PerformStringShifts/Solution.java)                |
 |---| ------------------------|-----|
 |  3  | [Product of Array Except Self](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3300/)                             |           [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/ProductOfArrayExceptSelf/Solution.java)                |
+|  3  | [Valid Parenthesis String](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/)                             |           [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/ValidParenthesisString/Solution.java)                |
 
 
 
@@ -104,34 +105,33 @@
 |  64  | [Path Sum III](https://leetcode.com/problems/path-sum-iii)                             |           [not-yet](#)                |Easy|
 |  65  | [House Robber](https://leetcode.com/problems/house-robber/)                             |           [not-yet](#)                |Easy|
 |  66  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                             |           [not-yet](#)                |Easy|
-|  67  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  68  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  69  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  70  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  71  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  72  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  73  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  74  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  75  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  76  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  77  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  78  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  79  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  80  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  81  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  82  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  83  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  84  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  85  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  86  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  87  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  88  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  89  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  90  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  91  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  92  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  93  | [willAdd](url)                             |           [not-yet](#)                |Easy|
-|  94  | [willAdd](url)                             |           [not-yet](#)                |Easy|
+|  67  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)                             |           [not-yet](#)                |Easy|
+|  68  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/)                             |           [not-yet](#)                |Easy|
+|  69  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                             |           [not-yet](#)                |Easy|
+|  70  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                             |           [not-yet](#)                |Easy|
+|  72  | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)                             |           [not-yet](#)                |Easy|
+|  73  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                             |           [not-yet](#)                |Easy|
+|  74  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                             |           [not-yet](#)                |Easy|
+|  75  | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                             |           [not-yet](#)                |Easy|
+|  76  | [Strobogrammatic Number](https://leetcode.com/problems/Strobogrammatic-Number/)                             |           [not-yet](#)                |Easy|
+|  77  |  [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)                             |           [not-yet](#)                |Easy|
+|  78  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                             |           [not-yet](#)                |Easy|
+|  79  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                             |           [not-yet](#)                |Easy|
+|  80  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                             |           [not-yet](#)                |Easy|
+|  81  |[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)                         |           [not-yet](#)                |Easy|
+|  82  | [Power of Four](https://leetcode.com/problems/power-of-four/)                             |           [not-yet](#)                |Easy|
+|  83  | [Power of Two](https://leetcode.com/problems/power-of-two/description/)                             |           [not-yet](#)                |Easy|
+|  84  | [Add Strings](https://leetcode.com/problems/add-strings/)                             |           [not-yet](#)                |Easy|
+|  85  | [Nested List Weight Sum II](https://leetcode.com/discuss/interview-question/algorithms/125258/nested-list-weight-sum-ii)                             |           [not-yet](#)                |Easy|
+|  86  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                             |           [not-yet](#)                |Easy|
+|  87  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                             |           [not-yet](#)                |Easy|
+|  88  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                             |           [not-yet](#)                |Easy|
+|  89  | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                             |           [not-yet](#)                |Easy|
+|  90  | [Binary Watch](https://leetcode.com/problems/binary-watch/)                             |           [not-yet](#)                |Easy|
+|  91  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                             |           [not-yet](#)                |Easy|
+|  92  | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)                             |           [not-yet](#)                |Easy|
+|  93  | [willAdd](url)           |           [not-yet](#)                |Easy|
+|  94  |[willAdd](url)                           |           [not-yet](#)                |Easy|
 |  95  | [willAdd](url)                             |           [not-yet](#)                |Easy|
 |  96  | [willAdd](url)                             |           [not-yet](#)                |Easy|
 |  97  | [willAdd](url)                             |           [not-yet](#)                |Easy|
@@ -144,9 +144,9 @@
 |  103  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                             |           [not-yet](#)                |Medium|
 |  104  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                             |           [not-yet](#)                |Medium|
 |  105  | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)                             |           [not-yet](#)                |Medium|
-|  106  | [willAdd](url)                             |           [not-yet](#)                |Medium|
-|  107  | [willAdd](url)                             |           [not-yet](#)                |Medium|
-|  108  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  106  | [willAdd](url)                               |           [not-yet](#)                |Medium|
+|  107  |[willAdd](url)                    |           [not-yet](#)                |Medium|
+|  108  |[willAdd](url)                                |           [not-yet](#)                |Medium|
 |  109  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |  110  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |  111  | [willAdd](url)                             |           [not-yet](#)                |Medium|
@@ -200,7 +200,6 @@
 |  159  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |  160  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |---| ------------------------|------|-----|
-|  160  | [willAdd](url)                             |           [not-yet](#)                |Hard|
 |  161  | [willAdd](url)                             |           [not-yet](#)                |Hard|
 |  162  | [willAdd](url)                             |           [not-yet](#)                |Hard|
 |  163  | [willAdd](url)                             |           [not-yet](#)                |Hard|
