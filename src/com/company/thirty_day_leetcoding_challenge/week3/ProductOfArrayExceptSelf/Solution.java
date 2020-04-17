@@ -26,11 +26,11 @@ public class Solution {
 //        //nums =[2, 3, 4, 8]
 //        int[] newNums = new int[nums.length];
 //        newNums[0] = 1;
-//        for (int i = 1; i < nums.length; i++) newNums[i] = newNums[i - 1] * nums[i - 1];
-//        int right = 1;
+//        for (int i = 1; i < nums.length; i++) newNums[i] = newNums[i - 1] * nums[i - 1];//start from  right and calculate
+//        int temp = 1;
 //        for (int i = nums.length - 1; i >= 0; i--) {
-//            newNums[i] = newNums[i] * right;
-//            right *= nums[i];
+//            newNums[i] = newNums[i] * temp;
+//            temp *= nums[i];
 //        }
 //        return newNums;
 //    }

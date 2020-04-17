@@ -31,6 +31,7 @@
 |---| ------------------------|-----|
 |  3  | [Product of Array Except Self](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3300/)                             |           [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/ProductOfArrayExceptSelf/Solution.java)                |
 |  3  | [Valid Parenthesis String](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/)                             |           [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/ValidParenthesisString/Solution.java)                |
+|  3  | [Number of Islands](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3302/)                             |           [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/NumberOfIslands/Solution.java)                |
 
 
 
@@ -39,7 +40,7 @@
 # Algorithms
 | n |                            Question                                                          |                      Solution                                                                                         | Difficulty|
 |:---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:-----------------------------:|
-|  1  | [Two Sum](https://leetcode.com/problems/two-sum/)                             |           [not-yet](#)                |Easy|
+|  1  | [Two Sum](https://leetcode.com/problems/two-sum/)|[java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company//Users/abdo/dev/java-projects/leetcode/src/com/company/Algorithms/easy/TwoSum/Solution.java)               |Easy|
 |  2  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                             |           [not-yet](#)                |Easy|
 |  3  | [Add Binary](https://leetcode.com/problems/add-binary/)                             |           [not-yet](#)                |Easy|
 |  4  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                             |           [not-yet](#)                |Easy|
@@ -144,11 +145,11 @@
 |  103  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                             |           [not-yet](#)                |Medium|
 |  104  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                             |           [not-yet](#)                |Medium|
 |  105  | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)                             |           [not-yet](#)                |Medium|
-|  106  | [willAdd](url)                               |           [not-yet](#)                |Medium|
-|  107  |[willAdd](url)                    |           [not-yet](#)                |Medium|
-|  108  |[willAdd](url)                                |           [not-yet](#)                |Medium|
-|  109  | [willAdd](url)                             |           [not-yet](#)                |Medium|
-|  110  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  106  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                               |           [not-yet](#)                |Medium|
+|  107  |[Course Schedule](https://leetcode.com/problems/course-schedule/)                    |           [not-yet](#)                |Medium|
+|  108  |[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)                                |           [not-yet](#)                |Medium|
+|  109  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)                             |           [not-yet](#)                |Medium|
+|  110  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                             |           [not-yet](#)                |Medium|
 |  111  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |  112  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |  113  | [willAdd](url)                             |           [not-yet](#)                |Medium|
@@ -199,14 +200,24 @@
 |  158  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |  159  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |  160  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  161  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  162  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  163  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  164  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  165  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  166  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  167  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  168  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  169  | [willAdd](url)                             |           [not-yet](#)                |Medium|
+|  170  | [willAdd](url)                             |           [not-yet](#)                |Medium|
 |---| ------------------------|------|-----|
-|  161  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  162  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  163  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  164  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  165  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  166  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  167  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  168  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  169  | [willAdd](url)                             |           [not-yet](#)                |Hard|
-|  170  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  171  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  172  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  173  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  174  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  175  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  176  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  177  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  178  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  179  | [willAdd](url)                             |           [not-yet](#)                |Hard|
+|  180  | [willAdd](url)                             |           [not-yet](#)                |Hard|
