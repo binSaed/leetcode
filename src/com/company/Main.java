@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        // write your code here
+        // TODO: 4/19/20 start learning in leetcode: https://leetcode.com/explore/learn/
     }
 }

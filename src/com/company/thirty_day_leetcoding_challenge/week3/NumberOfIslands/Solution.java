@@ -2,6 +2,7 @@ package com.company.thirty_day_leetcoding_challenge.week3.NumberOfIslands;
 
 public class Solution {
     public int numIslands(char[][] grid) {
+        //https://www.programcreek.com/2014/04/leetcode-number-of-islands-java/
         int numIslands = 0;
         for (int i = 0; i < grid.length; i++)
             for (int j = 0; j < grid[i].length; j++)

@@ -33,6 +33,7 @@
 |  3  | [Valid Parenthesis String](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/ValidParenthesisString/Solution.java) |
 |  3  | [Number of Islands](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3302/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/NumberOfIslands/Solution.java) |
 |  3  | [Minimum Path Sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/MinimumPathSum/Solution.java) |
+|  3  | [Search in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/SearchInRotatedSortedArray/Solution.java) |
 
 
 
@@ -151,7 +152,7 @@
 |  108  |[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)    | [not-yet](#) |Medium|
 |  109  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [not-yet](#) |Medium|
 |  110  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [not-yet](#) |Medium|
-|  111  | [willAdd](url) | [not-yet](#) |Medium|
+|  111  | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | [not-yet](#) |Medium|
 |  112  | [willAdd](url) | [not-yet](#) |Medium|
 |  113  | [willAdd](url) | [not-yet](#) |Medium|
 |  114  | [willAdd](url) | [not-yet](#) |Medium|
