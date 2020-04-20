@@ -34,6 +34,7 @@
 |  3  | [Number of Islands](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3302/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/NumberOfIslands/Solution.java) |
 |  3  | [Minimum Path Sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/MinimumPathSum/Solution.java) |
 |  3  | [Search in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/SearchInRotatedSortedArray/Solution.java) |
+|  3  | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/ConstructBinarySearchTreeFromPreorderTraversal/Solution.java) |
 
 
 
