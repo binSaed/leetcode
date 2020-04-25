@@ -35,6 +35,12 @@
 |  3  | [Minimum Path Sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/MinimumPathSum/Solution.java) |
 |  3  | [Search in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/SearchInRotatedSortedArray/Solution.java) |
 |  3  | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/ConstructBinarySearchTreeFromPreorderTraversal/Solution.java) |
+|  3  | [Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week3/LeftMostColumnWithAtLeastAOne/Solution.java) |
+|---| ------------------------|-----|
+|  4  | [Subarray Sum Equals K](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week4/SubarraySumEqualsK/Solution.java) |
+|  4  | [Bitwise AND of Numbers Range](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week4/BitwiseANDofNumbersRange/Solution.java) |
+|  4  | [LRU Cache](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3309/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week4/LRUCache/Solution.java) |
+|  4  | [Jump Game](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3310/) | [java](https://github.com/AbdOoSaed/leetcode/blob/master/src/com/company/thirty_day_leetcoding_challenge/week4/JumpGame/Solution.java) |
 
 
 
