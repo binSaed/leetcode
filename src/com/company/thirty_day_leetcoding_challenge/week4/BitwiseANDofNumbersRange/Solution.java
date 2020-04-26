@@ -1,6 +1,11 @@
 package com.company.thirty_day_leetcoding_challenge.week4.BitwiseANDofNumbersRange;
 
 public class Solution {
+    //https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html
+    //https://www.tutorialspoint.com/java/java_basic_operators.htm
+    //https://www.geeksforgeeks.org/bitwise-operators-in-java/?ref=rp
+    //https://stackoverflow.com/questions/2311476/whats-the-reason-high-level-languages-like-c-java-mask-the-bit-shift-count-ope
+    //>>> is logical shift, >> is arithmetic shift.
     public int rangeBitwiseAnd(int m, int n) {
         if (m == 0) return 0;
         while (n > m) n = n & n - 1;
